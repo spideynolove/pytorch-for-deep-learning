@@ -1,0 +1,3 @@
+# https://download.pytorch.org/whl/cu100/torch_stable.html
+# https://varhowto.com/install-pytorch-cuda-10-0/
+torch==1.4.0
